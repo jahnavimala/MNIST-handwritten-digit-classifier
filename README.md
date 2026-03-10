@@ -1,7 +1,6 @@
-# MNIST-handwritten-digit-classifier
-A machine learning project implementing a classification algorithm  Convolutional Neural Network (CNN/SVM) to recognize handwritten digits (0-9) using the classic Yann LeCun MNIST dataset.
-
 # Handwritten Digit Recognition (MNIST)
+
+A machine learning project implementing a classification algorithm  Convolutional Neural Network (CNN/SVM) to recognize handwritten digits (0-9) using the classic Yann LeCun MNIST dataset.
 
 ## Project Overview
 This repository contains a machine learning model capable of recognizing handwritten digits. While trained on the MNIST dataset, the goal is to provide a pipeline that can process images of digits written on physical paper.
